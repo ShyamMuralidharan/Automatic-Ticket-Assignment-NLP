@@ -1,0 +1,2 @@
+,input_x,target_y,unique_target,training_acc,validation_acc,training_loss,validation_loss,glove_vector,attn_layer,conv1d,no_of_epochs_run,batch_size,learning_rate,embb_trainable
+0,short_long,y_75,10,0.8605161309242249,0.7356709241867065,0.42656511068344116,0.8628872036933899,yes,no,yes,12,16,6.400000529538374e-08,False
